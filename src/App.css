@@ -1,0 +1,41 @@
+.App {
+ 
+  text-align: center; 
+    background-color: black; 
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 2rem;
+  
+   
+ } 
+ .container{
+  margin: 0 50px ;
+  border: 2px solid rgb(173, 46, 46); 
+  background-color:orange;  
+  padding:  17% 0;
+} 
+.botonA {
+  background-color: aquamarine;
+  border-radius: 12px;
+  margin: 3px;
+  padding: 15px 32px;
+  text-align: center; 
+  display: inline-block;
+  font-size: 16px;
+}
+.botonB{
+  background-color: aquamarine;
+  border-radius: 12px;
+  margin: 35px 10px;
+  padding: 15px 32px;
+  text-align: center; 
+  display: inline-block;
+  font-size: 16px;
+}
+.historia{
+  border: 3px solid black;        
+  margin:   2% ;  
+  display: flex;         
+  padding: 100px;
+  text-transform: uppercase;
+
+}
